@@ -170,10 +170,54 @@ a:hover { color: #036; }
 /**
  * Primary styles
  *
- * Author: 
+ * Author: Morgan Roderick
  */
+ 
+header {
+    position: relative;
+    height: 120px;
+    margin: 0;
+    padding: 0;
+    background: yellow;
+}
 
+    header a.home {
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: 2em;
+    }
 
+    header ul {
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        list-style-type: none;
+    }
+
+        header ul li {
+            display: inline-block;
+            margin: 0;
+            padding: 0;
+        }
+    
+            header ul li a {
+                background: lime;
+                padding: 5px 10px;
+            }
+            
+#main {
+    font-size: 1em;
+}        
+
+footer {
+    color: #888;
+    margin: 20px 0 0;
+    border-top: 4px solid #ddd;
+    padding: 20px;
+}
 
 
 
