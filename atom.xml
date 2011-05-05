@@ -5,8 +5,8 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
     <title>Briza maxima</title>
-	<link href="http://briza.se/feed/" rel="self" />
-	<link href="http://briza.se/"/>
+	<link type="application/atom+xml" href="http://briza.se/atom.xml" rel="self" />
+	<link type="text" href="http://briza.se/" rel="alternate" />
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://briza.se/</id>
 	<author>
