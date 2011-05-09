@@ -151,16 +151,31 @@ button {  width: auto; overflow: visible; }
 body, select, input, textarea {
   color: #333;
   font-family: 'Lucida Grande', Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
-  font-size: 80%;
+  font-size: 90%;
 }
+
 
 /* Headers (h1, h2, etc) have no default font-size or margin; define those yourself */
 h1, h2, h3, h4, h5, h6 { font-weight: bold; }
 
 
 h1 {
-    font-size: 1.8em;
+    font-size: 2em;
     margin: 1em 0 0.5em;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin: 1em 0 1em;
+}
+
+h3 {
+    font-size: 1.3em;
+    margin: 1em 0 1em;
+}
+
+p {
+    margin: .5em 0 1em;
 }
 
 a, a:active, a:visited { color: #607890; }
@@ -175,23 +190,23 @@ a:hover { color: #036; }
  
 header {
     position: relative;
-    height: 120px;
+    height: 100px;
     margin: 0;
-    padding: 0;
+    padding: 10px 20px;
     background: yellow;
 }
 
     header a.home {
         position: absolute;
         top: 0;
-        left: 0;
+        left: 20px;
         font-size: 2em;
     }
     
     header a.feed {
         position: absolute;
         top: 10px;
-        right: 10px;
+        right: 20px;
         font-size: 1.4em;
         background: url(/images/rss.png) 0 0 no-repeat;
         padding-left: 36px;
@@ -204,7 +219,7 @@ header {
         padding: 0;
         position: absolute;
         bottom: 0;
-        left: 0;
+        left: 20px;
         list-style-type: none;
     }
 
@@ -220,6 +235,7 @@ header {
             }
             
 #main {
+    padding: 10px 20px;
     font-size: 1em;
 }        
 
