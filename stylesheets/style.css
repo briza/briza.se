@@ -149,12 +149,24 @@ body {
 		padding: 0 10px;
 	}
 	
-	#container > header ul li.selected {
+	
+	
+	#container > header ul li.selected,
+	body.vi-ar #container > header ul li.vi-ar,
+	body.vi-erbjuder #container > header ul li.vi-erbjuder,
+	body.vi-goer #container > header ul li.vi-goer,
+	body.vi-har-gjort #container > header ul li.vi-har-gjort,
+	body.kontakt #container > header ul li.kontakt {
 		background: transparent url(../images/menu-bubble.png) 0 -88px no-repeat;
 		padding-left: 21px;
 	}
 	
-	#container > header ul li.selected a {
+	#container > header ul li.selected a,
+	body.vi-ar #container > header ul li.vi-ar a,
+	body.vi-erbjuder #container > header ul li.vi-erbjuder a,
+	body.vi-goer #container > header ul li.vi-goer a,
+	body.vi-har-gjort #container > header ul li.vi-har-gjort a,
+	body.kontakt #container > header ul li.kontakt a {
 		color: #fff;
 		text-decoration: none;
 		background: transparent url(../images/menu-bubble.png) 100% -34px no-repeat;
@@ -162,7 +174,12 @@ body {
 		display: block;
 	}
 
-	#container > header ul li.selected a span {
+	#container > header ul li.selected a span,
+	body.vi-ar #container > header ul li.vi-ar a span,
+	body.vi-erbjuder #container > header ul li.vi-erbjuder a span,
+	body.vi-goer #container > header ul li.vi-goer a span,
+	body.vi-har-gjort #container > header ul li.vi-har-gjort a span,
+	body.kontakt #container > header ul li.kontakt a span {
 		background: transparent url(../images/menu-bubble.png) 0 10px repeat-x;
 		height: 44px;
 		display: block;

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kontakt
-section: kontakt
+site_section: kontakt
 ---
 
 # Kontakt
