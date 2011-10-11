@@ -115,7 +115,6 @@ body {
 }
 
 #container > header {
-/*	background: yellow;*/
 	height: 100px;
 }
 
@@ -153,7 +152,6 @@ body {
 	#container > header ul li.selected {
 		background: transparent url(../images/menu-bubble.png) 0 -88px no-repeat;
 		padding-left: 21px;
-/*		background: yellow;*/
 	}
 	
 	#container > header ul li.selected a {
@@ -162,13 +160,10 @@ body {
 		background: transparent url(../images/menu-bubble.png) 100% -34px no-repeat;
 		padding: 0 21px 0 0;
 		display: block;
-/*		width: 200px;*/
-/*		background: red;*/
 	}
 
 	#container > header ul li.selected a span {
 		background: transparent url(../images/menu-bubble.png) 0 10px repeat-x;
-/*		background: lime;*/
 		height: 44px;
 		display: block;
 	}
