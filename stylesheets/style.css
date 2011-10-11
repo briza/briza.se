@@ -271,6 +271,13 @@ a {
 }
 
 
+blockquote {
+	font-family: monospace;
+}
+
+ul {
+	margin-bottom: 1.5em;
+}
 
 .ir { display: block; text-indent: -999em; overflow: hidden; background-repeat: no-repeat; text-align: left; direction: ltr; }
 .hidden { display: none; visibility: hidden; }
