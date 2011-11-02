@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+    <title>Briza maxima</title>
+	<link type="application/atom+xml" href="http://briza.se/atom.xml" rel="self" />
+	<link type="text" href="http://briza.se/" rel="alternate" />
+	<updated>2011-10-11T16:37:57+02:00</updated>
+	<id>http://briza.se/</id>
+	<author>
+		<name>Briza maxima</name>
+		<email>info@briza.se</email>
+	</author>
+
+	
+	<entry>
+		<title>EventMachine, How Does It Work?</title>
+		<link href="http://briza.se//2011/04/29/event-machine"/>
+		<updated>2011-04-29T00:00:00+02:00</updated>
+		<id>http://briza.se//2011/04/29/event-machine</id>
+		<author>
+			
+				<name>Luisa Carbonelli</name>
+			
+		</author>
+		
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;h2 id='hello_world'&gt;Hello world&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;yes&lt;/li&gt;
+
+&lt;li&gt;we&lt;/li&gt;
+
+&lt;li&gt;can&lt;/li&gt;
+
+&lt;li&gt;has&lt;/li&gt;
+
+&lt;li&gt;bullets!&lt;/li&gt;
+&lt;/ul&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Hello World</title>
+		<link href="http://briza.se//2011/04/19/hello-world"/>
+		<updated>2011-04-19T00:00:00+02:00</updated>
+		<id>http://briza.se//2011/04/19/hello-world</id>
+		<author>
+			
+				<name>Briza maxima</name>
+			
+		</author>
+		
+		<content type="html">&lt;h1 id='hello_world'&gt;Hello World!&lt;/h1&gt;
+
+&lt;p&gt;Hey, we&amp;#8217;re online!&lt;/p&gt;
+
+&lt;p&gt;This is our new site, built with Jekyll and markdown, it can do a lot of clever stuff, while still being really simple:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;RSS Feeds&lt;/li&gt;
+
+&lt;li&gt;Blog posts&lt;/li&gt;
+
+&lt;li&gt;Regular pages&lt;/li&gt;
+
+&lt;li&gt;PDF files&lt;/li&gt;
+
+&lt;li&gt;Bullet lists &amp;#8230; haha&lt;/li&gt;
+&lt;/ul&gt;</content>
+	</entry>
+	
+	
+</feed>
