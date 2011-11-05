@@ -5,4 +5,3 @@ site_section: vi-goer
 ---
 
 # Vi gör
-

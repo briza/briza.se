@@ -25,3 +25,5 @@ Citat från en av keynote speakers:
 >There have been discussed a lot of interesting aspects and interfaces for the strategy of a green Scandria corridor. Especially the facts about influence for implementing “green” aspects like strategy making, marketing, technical solutions, “market making” and pricing were shown in a very good manner.
 
 >— Ulrike Assig, Joint Spatial Planning Department of Berlin and Brandenburg
+
+
