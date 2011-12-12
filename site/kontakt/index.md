@@ -14,12 +14,12 @@ Hör av dig om du är nyfiken och vill jobba med oss!
 Mail: <info@briza.se>
 Telefon: 0703 98 23 54
  
-Briza maxima AB
-Monbijougatan 17H
-211 53 Malmö
+Briza maxima AB<br/>	
+Betaniaplan 3B<br/>
+211 55 Malmö<br/>
 
-Organisationsnummer: 556845-4754
-Bankgiro: 734-4674
+Organisationsnummer: 556845-4754<br/>
+Bankgiro: 734-4674<br/>
 FB-knapp till <https://www.facebook.com/Briza.maxima.AB>
 
 “BOX” med
