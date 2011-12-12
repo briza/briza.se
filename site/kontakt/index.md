@@ -11,18 +11,18 @@ För att ge dig den bästa lösningen vill vi först träffa dig för att diskut
 
 Hör av dig om du är nyfiken och vill jobba med oss!
 
-Mail: <info@briza.se>
+E-mail: <info@briza.se>
+
 Telefon: 0703 98 23 54
  
-Briza maxima AB<br/>	
-Betaniaplan 3B<br/>
-211 55 Malmö<br/>
+Briza maxima AB<br/>
+Monbijougatan 17H<br/>
+211 53 Malmö
 
 Organisationsnummer: 556845-4754<br/>
 Bankgiro: 734-4674<br/>
 FB-knapp till <https://www.facebook.com/Briza.maxima.AB>
 
-“BOX” med
-Prenumeration på nyhetsbrevs-funktion
+“BOX” med Prenumeration på nyhetsbrevs-funktion
 
 Foto av Luisa och Rebecka
