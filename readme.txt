@@ -1,3 +1,6 @@
+# Import af virtuel maskine (skal kun gøres hvis den virtuelle maskine er slettet)
+vagrant box add briza http://roderick.dk/boxes/briza.box
+
 # Start af virtuel maskine
 * Start en terminal
 * Gå til folder med checkout, $ /Users/luisac/Documents/code/briza.se
