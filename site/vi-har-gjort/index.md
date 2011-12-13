@@ -6,7 +6,7 @@ site_section: vi-har-gjort
 
 # Vi har gjort
 
-* RE Equal Pay Day
+* [Equal Pay Day 2011](equal-pay-day)
 * [Scandria Biogaskonferens](scandria-biogaskonferens)
 * [Företagsutveckling](foretagsutveckling)
 * RE Maja Manner/ISU Malmö
