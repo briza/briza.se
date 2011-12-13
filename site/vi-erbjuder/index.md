@@ -7,6 +7,6 @@ site_section: vi-erbjuder
 # Vi erbjuder
 Vi erbjuder upplevelsedesign. alibi för interaktion...
 
-Vad kan vi hjälpa dig med? Länk till Tjänster<br/>
-Hur når vi det resultat du behöver? Länk till Metoder<br/>
-Vad kostar en lösning? Länk till Pris
+Vad kan vi [hjälpa](tjaenster) dig med?<br/>
+Hur når vi det [resultat](metoder) du behöver?<br/>
+Vad [kostar](pris) en lösning?
