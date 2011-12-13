@@ -16,7 +16,7 @@ end
 
 desc 'Build and deploy'
 task :deploy => [:build] do
-  sh 'rsync -avz -e ssh --progress _site/ brizadeploy@ollehost.dk:/path/to/public/folder/'
+  sh 'rsync -avz -e ssh --progress _site/ brizadeploy@ollehost.dk:/home/brizadeploy/public_html/'
 end
 
 def jekyll(opts = '')
