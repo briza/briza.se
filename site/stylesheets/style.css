@@ -101,6 +101,10 @@ body {
 	line-height: 1.7em;
 }
 
+/* needed for sticky footer */
+html, body, #container { height: 100%; }
+body > #container { height: auto; min-height: 100%; }
+
 #container > header,
 #container > #main {
     -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -187,7 +191,6 @@ body {
 
 
 #container > #main {
-	min-height: 600px;
 	padding-bottom: 185px;
 }
 
@@ -216,19 +219,20 @@ body {
 			padding: 0;
 			margin: 0;
 		}
-	
 
-#container > footer {
+body > footer {
 	background: transparent url(../images/bottom-bar.png) bottom left repeat-x;
-	position: fixed;
-	bottom: 0;
-	left: 0;
-	width: 100%;
 	text-align: center;
-	
+
+	/* create sticky footer */
+	clear: both;
+	position: relative;
+	z-index: 10;
+	height: 185px;
+	margin-top: -185px;
 }
 
-	#container > footer div.decal {
+	body > footer div.decal {
 		margin: 0 auto;
 		width: 1035px;
 		height: 184px;
