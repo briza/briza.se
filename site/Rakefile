@@ -9,6 +9,11 @@ task :build do
   jekyll '--no-server --no-auto'
 end
 
+desc 'Automatically rebuild the site when there are changes, but don\' start a server'
+task :auto do
+  jekyll '--no-server --auto'
+end
+
 desc 'Build and start server with --auto'
 task :server do
   jekyll '--server --auto'
@@ -16,7 +21,7 @@ end
 
 desc 'Build and deploy'
 task :deploy => [:build] do
-  sh 'rsync -avz -e ssh --progress _site/ brizadeploy@ollehost.dk:/home/brizadeploy/public_html/'
+  sh 'rsync -az --delete --delay-updates --progress -e ssh --progress _site/ brizadeploy@ollehost.dk:/home/brizadeploy/public_html/'
 end
 
 def jekyll(opts = '')

@@ -1,3 +1,7 @@
+# apt is needed for most recipes
+require_recipe "apt"
+require_recipe "build-essential"
+
 directory "/etc/profile.d" do
     action :create
     owner "root"
@@ -17,7 +21,40 @@ end
 require_recipe "rvm::vagrant"
 require_recipe "rvm::system"
 
+# install specific liquid gem that won't break on the Liquid highlighter
+# https://github.com/mojombo/jekyll/issues/422
+rvm_gem "liquid" do
+  version "2.2.2"
+  action  :install
+end
+
 rvm_gem "jekyll" do
   ruby_string "ruby-1.9.2-p290"
   action      :install
+end
+
+require_recipe "python"
+easy_install_package "Pygments" do
+  # version "1.8d"
+  action :install
+end
+
+# apache2
+require_recipe "apache2"
+require_recipe "apache2::mod_deflate"
+require_recipe "apache2::mod_rewrite"
+require_recipe "apache2::mod_expires"
+require_recipe "apache2::mod_setenvif"
+require_recipe "apache2::mod_headers"
+
+# configure sites
+execute "disable-default-site" do
+  command "sudo a2dissite default"
+  notifies :reload, resources(:service => "apache2"), :delayed
+end
+
+web_app "briza_se" do
+  template "briza_se.conf.erb"
+  notifies :reload, resources(:service => "apache2"), :delayed
+  docroot "#{node[:vagrant][:directory]}/site/_site"
 end
