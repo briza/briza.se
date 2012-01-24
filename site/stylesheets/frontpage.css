@@ -118,6 +118,10 @@ body > #container { height: auto; min-height: 100%; }
 	position: relative;
 }
 
+#container {
+	background: #3eb2d3;
+}
+
 #container > header {
 	height: 100px;
 }
@@ -195,10 +199,18 @@ body > #container { height: auto; min-height: 100%; }
 
 #container > #main {
 	padding-bottom: 185px;
+	background: lime;
+	min-height: 430px;
 }
 
 	#container > #main .primary {
 		width: 600px;
+	}
+	
+	#container > #main .primary img.illustration {
+		position: absolute;
+		bottom: 0;
+		right: -3px;
 	}
 	
 	#container > #main img.photo {
@@ -224,23 +236,8 @@ body > #container { height: auto; min-height: 100%; }
 		}
 
 body > footer {
-	background: transparent url(../images/bottom-bar.png) bottom left repeat-x;
-	text-align: center;
 
-	/* create sticky footer */
-	clear: both;
-	position: relative;
-	z-index: 10;
-	height: 185px;
-	margin-top: -185px;
 }
-
-	body > footer div.decal {
-		margin: 0 auto;
-		width: 1035px;
-		height: 184px;
-		background: transparent url(../images/footer.png) 0 0 no-repeat;
-	}
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Futura Condensed', 'Century Gothic', sans-serif;
