@@ -101,10 +101,6 @@ body {
 	line-height: 1.7em;
 }
 
-/* needed for sticky footer */
-html, body, #container { height: 100%; }
-body > #container { height: auto; min-height: 100%; }
-
 #container > header,
 #container > #main {
     -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -199,7 +195,6 @@ body > #container { height: auto; min-height: 100%; }
 
 #container > #main {
 	padding-bottom: 185px;
-	background: lime;
 	min-height: 430px;
 }
 
@@ -239,6 +234,18 @@ body > #container { height: auto; min-height: 100%; }
 			padding: 0;
 			margin: 0;
 		}
+
+	#container > footer {
+		background: transparent url(../images/bottom-bar.png) bottom left repeat-x;
+		text-align: center;
+	}
+
+		#container > footer div.decal {
+			margin: -184px auto 0;
+			width: 1035px;
+			height: 184px;
+			background: transparent url(../images/footer.png) 0 0 no-repeat;
+		}	
 	
 	#second-container {
 		background: #fff;	
@@ -269,6 +276,8 @@ body > footer {
 	min-height: 71px;
 	font: bold 12px/1.5 Georgia, "Times New Roman", serif;
 }
+
+
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Futura Condensed', 'Century Gothic', sans-serif;
