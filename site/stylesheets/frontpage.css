@@ -206,6 +206,17 @@ body {
 		#container > #main .primary p {
 			color: #fff;
 		}
+
+		#container > #main .primary h1 {
+			font-size: 50px;
+			text-shadow: #2a798e -4px 4px 1px;
+		}
+
+		#container > #main .primary p {
+			font: italic 20px/1.5 Georgia, "Times New Roman", serif;
+			text-shadow: #2a798e -2px 2px 1px;
+
+		}
 	
 	#container > #main .primary img.illustration {
 		position: absolute;
