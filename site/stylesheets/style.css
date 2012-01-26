@@ -194,11 +194,14 @@ body > #container { height: auto; min-height: 100%; }
 
 
 #container > #main {
+	overflow: auto;
 	padding-bottom: 185px;
 }
 
 	#container > #main .primary {
 		width: 600px;
+		float: left;
+		margin-right: 39px;
 	}
 	
 	#container > #main img.photo {
@@ -222,6 +225,27 @@ body > #container { height: auto; min-height: 100%; }
 			padding: 0;
 			margin: 0;
 		}
+
+	#container #main .sidebar {
+		float: left;
+		width: 251px;
+		padding-top: 40px;
+	}
+
+	#container #main .sidebar .persons {
+		text-align: center;
+	}
+
+	#container #main .sidebar .persons a {
+		display: block;
+		margin-bottom: 20px;
+		font: italic 16px/1.5 Georgia, serif;
+		text-decoration: none;
+		color: #666666;
+	}
+	#container #main .sidebar .persons a:hover {
+		text-decoration: underline;
+	}
 
 body > footer {
 	background: transparent url(../images/bottom-bar.png) bottom left repeat-x;

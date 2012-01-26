@@ -43,7 +43,9 @@
 			<div id="main" role="main">
 				<div class="primary">{{ content }}</div>
 				<div class="sidebar">
-					
+					{% if page.sidebar == 'persons' %}
+						{% include persons-sidebar.html %}
+					{% endif %}					
 				</div>
 			</div>
 		</div>
