@@ -35,3 +35,6 @@ $ vagrant up
 * Rediger og tjek i browser.
 * Commit og sync i Github-appen
 
+
+### Images
+Fuld bredde 600 px
