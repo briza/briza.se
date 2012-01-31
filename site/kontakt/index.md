@@ -4,10 +4,7 @@ title: Kontakt
 site_section: kontakt
 ---
 
-
 # Kontakt
-
-![Briza maxima AB](/images/fotos/briza-rosa.jpg "Foto: Irika Sandstrom")
 
 För att ge dig den bästa lösningen vill vi först träffa dig för att diskutera ett uppdrag - det ger bäst resultat! Kaffe på pannan...
 

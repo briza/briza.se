@@ -9,6 +9,8 @@ Berättelsen om vem Briza är
 
 Luisa och Rebecka träffades genom nätverket [Geek Women Unite!](http://www.facebook.com/groups/198439931360/). Vi fann varande i intresset av vintageklänning, roliga evenemang, och kreativa … och bestämde oss därför för att arrangera en 50-tals soaréafton, med tidsenlig klädsel och meny. under planeringen märkte vi hur bra vi arbetar tillsammans, och startade upp en grupp för att diskutera företagande. 
 
+![Briza maxima AB](/images/fotos/briza-stairs.jpg "Foto: Irika Sandstrom")
+
 Det ledde till att Luisa hyrde kontor på Rebeckas gamla jobb. Väl där, berättade Luisa om sitt koncept [Mormors Verkstad](mormors-verkstad) som är ett av de projekt Briza idag driver.
 
 MNC - Luisa som berättelse-coach när Rebecka skulle producera [berättelser om projektet](~/vi-har-gjort/mnc-beraettelser). I detta samarbete landade vi i att använda oss av det vi idag kallar [bubbelmetoden](metoder) med stora framgångar.
