@@ -8,6 +8,8 @@ site_section: kontakt
 
 För att ge dig den bästa lösningen vill vi först träffa dig för att diskutera ett uppdrag - det ger bäst resultat! Kaffe på pannan...
 
+![Briza maxima AB](/images/fotos/briza-just-shoes.jpg "Foto: Irika Sandstrom")
+
 Hör av dig om du är nyfiken och vill jobba med oss!
 
 E-mail: <info@briza.se><br/>

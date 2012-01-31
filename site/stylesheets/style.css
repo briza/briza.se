@@ -239,7 +239,7 @@ body > #container { height: auto; min-height: 100%; }
 	#container #main .sidebar .persons a {
 		display: block;
 		margin-bottom: 20px;
-		font: italic 16px/1.5 Georgia, serif;
+		font: 16px/1.5 Georgia, serif;
 		text-decoration: none;
 		color: #666666;
 	}
