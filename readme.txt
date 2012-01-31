@@ -31,7 +31,7 @@ $ vagrant up
 * Start Terminal
 * `cd /Users/luisac/Documents/code/briza.se/site`
 * rake
-* Dette starter Jekyll som jekyll --serve (og sitet kan ses på http://localhost:4000)
+* Dette starter Jekyll som jekyll --serve (og sitet kan ses på http://localhost:4000 )
 * Rediger og tjek i browser.
 * Commit og sync i Github-appen
 
