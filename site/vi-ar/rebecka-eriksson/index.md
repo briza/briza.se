@@ -11,7 +11,7 @@ Jag är processledare, kommunikationsstrateg och demokratikonsulent. Jag har lå
 
 Jag är Brizas VD och kommunikationschef och ansvarar för marknadsföring samt kontakten med aktörer och intressenter.
 
-Jag är energisk, glad och inspirerande. 
+Jag är energisk, glad och inspirerande. Käpphäst: ...
 
 Jamicanska leguanödlor. 
 

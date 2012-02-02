@@ -11,7 +11,7 @@ Jag är litteraturvetare, kulturhistoriker och förmedlare. Jag använder känne
 
 Jag är Brizas kreativa direktör och ansvarar för inramning och dramaturgi i våra projekt.
 
-Jag är rollspelare, handarbetare och ständigt nyfiken.
+Jag är rollspelare, handarbetare och ständigt nyfiken. Käpphäst: även vuxna lär bättre av att få leka och göra.
 
 luisa@briza.se<br/>
 0735 21 92 33<br/>
