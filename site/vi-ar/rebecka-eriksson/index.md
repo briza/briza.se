@@ -11,12 +11,10 @@ Jag är processledare, kommunikationsstrateg och demokratikonsulent. Jag har lå
 
 Jag är Brizas VD och kommunikationschef och ansvarar för marknadsföring samt kontakten med aktörer och intressenter.
 
-
 Jag är energisk, glad och inspirerande. 
 
 Jamicanska leguanödlor. 
 
-Kompetens, personlighet, en udda sak.
 
 rebecka@briza.se<br/>
 0703 98 23 54<br/>

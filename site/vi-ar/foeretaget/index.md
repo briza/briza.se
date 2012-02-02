@@ -11,9 +11,9 @@ Luisa och Rebecka träffades genom nätverket [Geek Women Unite!](http://www.fac
 
 ![Briza maxima AB](/images/fotos/briza-stairs.jpg "Foto: Irika Sandstrom")
 
-Det ledde till att Luisa hyrde kontor på Rebeckas gamla jobb. Väl där, berättade Luisa om sitt koncept [Mormors Verkstad](mormors-verkstad) som är ett av de projekt Briza idag driver.
+Det ledde till att Luisa hyrde kontor på Rebeckas gamla jobb. Väl där, berättade Luisa om sitt koncept [Mormors Verkstad](/vi-goer/mormors-verkstad/) som är ett av de projekt Briza idag driver.
 
-MNC - Luisa som berättelse-coach när Rebecka skulle producera [berättelser om projektet](~/vi-har-gjort/mnc-beraettelser). I detta samarbete landade vi i att använda oss av det vi idag kallar [bubbelmetoden](metoder) med stora framgångar.
+MNC - Luisa som berättelse-coach när Rebecka skulle producera [berättelser om projektet](/vi-har-gjort/mnc-beraettelser/). I detta samarbete landade vi i att använda oss av det vi idag kallar [bubbelmetoden](/vi-erbjuder/metoder/) med stora framgångar.
 
 Genom att arbeta tillsammans upptäckte vi hur många gemensamma värderingar vi delar: 
 * Tron på den aktiva, ansvarstagande och kreativa människan som den viktigaste faktorn för att bygga det hållbara samhället.
@@ -41,5 +41,3 @@ Genom att arbeta tillsammans upptäckte vi hur många gemensamma värderingar vi
 * Nördar
 * Erbjuder lösningar
 * Energi, entusiam
-
-Logotypen - stort?
